@@ -4,6 +4,6 @@
 
 | **Проект**| **Описание**| **Навыки и инструменты**|
 | ---- | ---- | ---- |
-| [`test_task_med`](https://github.com/pzae/test_tasks/blob/main/test_task_med/test_task_med.ipynb) | Тестовое задание на стажировку в медицинский стартап "Докт 24". Задача: на основе основных показателей здоровья создать прогностическую модель рисков беременных. Результат - приглашение на стажировку | `Мультиклассификация`, `EDA`, `генерация признаков`, `sklearn`, `lightgbm`, `catboost`, `xgboost`, `StackingClassifier` |
+| [`test_task_med`](https://github.com/pzae/test_tasks/blob/main/test_task_med/test_task_med.ipynb) | Тестовое задание на стажировку в медицинский стартап. Задача: на основе основных показателей здоровья создать прогностическую модель рисков беременных. Результат - приглашение на стажировку | `Мультиклассификация`, `EDA`, `генерация признаков`, `sklearn`, `lightgbm`, `catboost`, `xgboost`, `StackingClassifier` |
 | [`test_task_insurance`](https://github.com/pzae/test_tasks/blob/main/test_task_insurance/test_task_insurance.ipynb) | Тестовое задание в компанию, занимающуюся разработкой и внедрением сервисов с использованием машинного обучения в разные области страхования. Задача: предсказать количество обращений застрахованных по ДМС за 2023 год на основе данных за 2022 год | `Регрессия`, `EDA`, `sklearn`, `pipeline`, `lightgbm`, `EnsembleRegressor` |
 
